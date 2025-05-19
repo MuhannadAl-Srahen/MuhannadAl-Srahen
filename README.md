@@ -4,7 +4,7 @@
 # Hello There! 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=35&pause=1000&color=16B9F7&width=475&lines=I'm+Muhannad+Al-Srahen;Full-Stack+Developer;React+%26+Next.js+Expert;Problem+Solver;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=35&pause=1000&color=16B9F7&width=475&lines=I'm+Muhannad+Al-Srahen;A+Full-Stack+Developer;A+React+%26+Next.js+Expert" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -23,12 +23,12 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MuhannadAl-Srahen&icon=5&color=6" alt="Profile Views"/>
+  <img src="https://visitcount.itsvg.in/api?id=MuhannadAl-Srahen&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views"/>
 </p>
 </div>
 
 ---
-
+<br>
 
 ## 💫 About Me
 
@@ -36,7 +36,7 @@
 
 > Currently leveling up with **Next.js** and **MongoDB**, while exploring **AI** and **Cybersecurity** to build secure, scalable applications.
 ---
-
+<br>
 
 ## 💻 Tech Stack
 
@@ -44,7 +44,7 @@
  
 
 ---
-
+<br>
 
 ## 📊 GitHub Stats
 
@@ -55,6 +55,7 @@
 </div>
 
 ---
+<br>
 
 ## 🏆 GitHub Trophies
 
@@ -63,6 +64,7 @@
 </div>
 
 ---
+<br>
 
 <div align="center">
 
