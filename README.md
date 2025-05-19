@@ -16,7 +16,7 @@
 
 <br>
 
-### 📫 Connect with Me
+## 📫 Connect with Me
 
 <p align="left">
   <a href="mailto:muhannadalsrahen@gmail.com">
@@ -40,7 +40,7 @@
 
 <br>
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -79,7 +79,7 @@
 
 <br>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhannadAl-Srahen&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false" />
@@ -93,7 +93,7 @@
 
 <br>
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MuhannadAl-Srahen&theme=react&no-frame=false&no-bg=true&margin-w=4" />
@@ -103,7 +103,7 @@
 
 <br>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
