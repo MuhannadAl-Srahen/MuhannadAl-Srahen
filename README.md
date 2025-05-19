@@ -1,10 +1,9 @@
 
 <h1 align="center">Hello There! 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=35&pause=1000&color=16B9F7&width=600&lines=I'm+Muhannad+Al-Srahen+" alt="Typing SVG">
-</p>
-
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=35&pause=1000&color=16B9F7&width=475&lines=I'm+Muhannad+Al-Srahen;A+Full-Stack+Developer;A+React+%26+Next.js+Expert" alt="Typing SVG" />
+</a>
 
 
 ## 💫 About Me
