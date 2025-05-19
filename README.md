@@ -14,7 +14,7 @@
 
 ---
 
-<br>
+
 
 ## 📫 Connect with Me
 
@@ -38,7 +38,7 @@
 
 ---
 
-<br>
+
 
 ## 💻 Tech Stack
 
@@ -77,7 +77,7 @@
 
 ---
 
-<br>
+
 
 ## 📊 GitHub Stats
 
@@ -91,7 +91,7 @@
 
 ---
 
-<br>
+
 
 ## 🏆 GitHub Trophies
 
@@ -101,7 +101,7 @@
 
 ---
 
-<br>
+
 
 ## ✍️ Random Dev Quote
 
