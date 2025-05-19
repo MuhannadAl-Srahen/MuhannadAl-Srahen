@@ -1,11 +1,13 @@
 
-<div align="center">
 
 # Hello There! 👋
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=35&pause=1000&color=16B9F7&width=475&lines=I'm+Muhannad+Al-Srahen;A+Full-Stack+Developer;A+React+%26+Next.js+Expert" alt="Typing SVG" />
 </a>
+
+
+<div align="center">
 
 <p align="center">
   <a href="mailto:muhannadalsrahen@gmail.com">
@@ -20,8 +22,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/profile.jpeg" alt="Muhannad's Profile Image" width="200" />
+  <img src="assets/profile.jpg" width="150" style="border-radius: 50%;" />
 </p>
+
 </div>
 
 ---
