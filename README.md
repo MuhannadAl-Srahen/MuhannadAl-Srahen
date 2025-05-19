@@ -14,16 +14,13 @@
   <a href="https://www.linkedin.com/in/muhannad-alsrahen">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://discord.com/users/_glock_x">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
   <a href="https://www.instagram.com/_glock_x/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MuhannadAl-Srahen&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views"/>
+  <img src="assets/profile.jpeg" alt="Muhannad's Profile Image" width="200" />
 </p>
 </div>
 
@@ -57,9 +54,11 @@
 ---
 <br>
 
+<div align="center">
+
 ## 🏆 GitHub Trophies
 
-<div align="center">
+
   <img src="https://github-profile-trophy.vercel.app/?username=MuhannadAl-Srahen&theme=nord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
