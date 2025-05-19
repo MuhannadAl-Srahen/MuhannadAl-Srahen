@@ -22,10 +22,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="assets/profile.jpeg" width="150" style="border-radius: 50%;" />
-</p>
-
 </div>
 
 ---
