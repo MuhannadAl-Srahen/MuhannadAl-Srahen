@@ -83,7 +83,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhannadAl-Srahen&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false" />
   <br/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=MuhannadAl-Srahen&theme=github_dark_dimmed&hide_border=false" />
