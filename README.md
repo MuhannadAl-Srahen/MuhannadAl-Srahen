@@ -84,23 +84,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhannadAl-Srahen&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhannadAl-Srahen&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=300" />
   <br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MuhannadAl-Srahen&theme=github_dark_dimmed&hide_border=false&cache_seconds=1800" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MuhannadAl-Srahen&theme=github_dark_dimmed&hide_border=false&cache_seconds=300" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhannadAl-Srahen&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhannadAl-Srahen&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=300" />
 </p>
 
-
 <br>
-
-
-
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhannadAl-Srahen&theme=react&no-frame=false&no-bg=true&margin-w=4&cache_seconds=1800" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhannadAl-Srahen&theme=react&no-frame=false&no-bg=true&margin-w=4&cache_seconds=300" />
 </p>
 
 <br>
