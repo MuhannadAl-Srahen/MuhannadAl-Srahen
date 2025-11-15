@@ -2,7 +2,7 @@
 <h1 align="center">Hello There! 👋</h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=35&pause=1000&color=16B9F7&width=475&lines=I'm+Muhannad+Al-Srahen;A+Full-Stack+Developer;A+React+%26+Next.js+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=35&pause=1000&color=16B9F7&width=475&lines=I'm+Muhannad+Al-Srahen;A+Front-end+Developer;A+React+%26+Next.js+Expert" alt="Typing SVG" />
 </a>
 
 
