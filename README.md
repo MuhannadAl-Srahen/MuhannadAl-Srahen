@@ -10,7 +10,7 @@
 
 > Passionate software engineer specializing in **full-stack web development** using **React**, **TypeScript**, and **Tailwind CSS**.  
 
-> Currently diving deeper into **Next.js**, **MongoDB**, and exploring the realms of **AI** and **Cybersecurity** to build secure, scalable applications.
+> Currently diving deeper into **Next.js**, **Node.js**, and exploring the realms of **AI** to build secure, scalable applications.
 
 <br>
 
